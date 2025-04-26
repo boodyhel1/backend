@@ -1,0 +1,16 @@
+__pycache__
+local_settings.py
+db.sqlite3
+templates/
+static/
+# Virtual environment
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.local
